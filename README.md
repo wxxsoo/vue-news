@@ -1,5 +1,7 @@
 # vue-news
 
+# news api를 이용한 vue sample project입니다.
+
 ## Project setup
 ```
 npm install
